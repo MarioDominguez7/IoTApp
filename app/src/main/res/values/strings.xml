@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IoTApp</string>
+    <string name="txt1">Bienvenido a la App IoT</string>
+    <string name="hint1">Usuario</string>
+    <string name="hint2">Contraseña</string>
+    <string name="btn1">Iniciar</string>
+</resources>
